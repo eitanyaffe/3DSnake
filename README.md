@@ -2,6 +2,8 @@
 
 This project is an exercise in OpenGL, designed to explore and demonstrate basic graphics programming concepts.
 
+This project was originally developed as an exercise during my MSc in Computer Science at Tel Aviv University in the early 2000s.
+
 ## Basic Design
 
 The 3DSnake game is built using OpenGL to render 3D graphics. The game logic is implemented in C++, and it involves controlling a snake that moves around a 3D grid, consuming items to grow longer while avoiding collisions with itself and the boundaries.
