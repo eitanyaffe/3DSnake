@@ -6,6 +6,10 @@ This 3D version of the classic [snake game](https://en.wikipedia.org/wiki/Snake_
 
 The game was built using OpenGL in C++. It involves controlling a snake that moves around a 3D grid, consuming apples while avoiding collisions with itself and the walls.
 
+## Porting Note
+
+The porting of this project from Windows to macOS was accomplished using Large Language Models (LLMs) in just 2 hours.
+
 ## How to Run
 
 1. **Prerequisites**: A C++ compiler and OpenGL. Tested on MacOS 13.3.1.
