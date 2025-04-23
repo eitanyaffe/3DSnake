@@ -1,6 +1,6 @@
 # 3DSnake
 
-This was an class exercise during my MSc in Computer Science at Tel Aviv University.
+This was a course exercise in Computer Graphics during my MSc in Computer Science at Tel Aviv University.
 
 ## Basic Design
 
