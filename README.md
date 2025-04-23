@@ -8,7 +8,7 @@ The game was built using OpenGL in C++. It involves controlling a snake that mov
 
 ## Porting Note
 
-The porting of this project from Windows to macOS was accomplished using Large Language Models (LLMs) in just 2 hours.
+The porting of this project from Windows to macOS was accomplished using Large Language Models (LLMs) in roughly 2 hours.
 
 ## How to Run
 
