@@ -1,8 +1,6 @@
 # 3DSnake
 
-This project is an exercise in OpenGL, designed to explore and demonstrate basic graphics programming concepts.
-
-This project was originally developed as an exercise during my MSc in Computer Science at Tel Aviv University in the early 2000s.
+This is an exercise in OpenGL, designed to explore and demonstrate basic graphics programming concepts. The project was originally developed as an exercise during my MSc in Computer Science at Tel Aviv University in the early 2000s.
 
 ## Basic Design
 
