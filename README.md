@@ -4,11 +4,11 @@ This 3D version of the classic [snake game](https://en.wikipedia.org/wiki/Snake_
 
 ## Basic Design
 
-The 3DSnake game is built using OpenGL. The game is implemented in C++, and it involves controlling a snake that moves around a 3D grid, consuming items to grow longer while avoiding collisions with itself and the boundaries.
+The game was built using OpenGL in C++. It involves controlling a snake that moves around a 3D grid, consuming apples while avoiding collisions with itself and the walls.
 
 ## How to Run
 
-1. **Prerequisites**: Ensure you have a C++ compiler and OpenGL installed on your system. Tested on MacOS 13.3.1.
+1. **Prerequisites**: A C++ compiler and OpenGL. Tested on MacOS 13.3.1.
 
 2. **Clone the Repository**:
    ```bash
@@ -26,13 +26,8 @@ The 3DSnake game is built using OpenGL. The game is implemented in C++, and it i
    ./3dsnake
    ```
 
-5. **Clean Up**: If you need to clean the build files, you can run:
-   ```bash
-   make clean
-   ```
-
 ## How to Play
 
 - Use the arrow keys to control the direction of the snake.
-- The objective is to consume items that appear randomly on the grid to grow the snake.
+- The objective is to consume apples on the grid to grow the snake.
 - Avoid running into the walls or the snake's own body, as this will end the game.
