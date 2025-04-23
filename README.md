@@ -8,7 +8,7 @@ The 3DSnake game is built using OpenGL. The game is implemented in C++, and it i
 
 ## How to Run
 
-1. **Prerequisites**: Ensure you have a C++ compiler and OpenGL installed on your system.
+1. **Prerequisites**: Ensure you have a C++ compiler and OpenGL installed on your system. Tested on MacOS 13.3.1.
 
 2. **Clone the Repository**:
    ```bash
@@ -23,7 +23,7 @@ The 3DSnake game is built using OpenGL. The game is implemented in C++, and it i
 
 4. **Execute the Game**: Run the compiled binary from the terminal.
    ```bash
-   ./3DSnake
+   ./3dsnake
    ```
 
 5. **Clean Up**: If you need to clean the build files, you can run:
