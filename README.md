@@ -1,6 +1,6 @@
 # 3DSnake
 
-This 3D version of the classic snake game [(https://en.wikipedia.org/wiki/Snake_(video_game_genre))] was a course exercise in Computer Graphics during my MSc in Computer Science at Tel Aviv University.
+This 3D version of the classic [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) was a course exercise in Computer Graphics during my MSc in Computer Science at Tel Aviv University.
 
 ## Basic Design
 
